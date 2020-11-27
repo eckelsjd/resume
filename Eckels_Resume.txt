@@ -1,0 +1,56 @@
+
+Education:	B.S. Mechanical Engineering	GPA 3.98/4.0	2017-2021
+	Rose-Hulman Institute of Technology	Terre Haute, IN 47803
+* Minors: 	Aerospace engineering, Thermal fluids, Computer Science, Music
+* Coursework:	Propulsion, Thermodynamics, Internal Combustion Engines, Aerodynamics
+			Computational Fluid Dynamics, Numerical Simulation, Data Structures
+
+Experience:	Los Alamos Dynamics 	| Undergraduate Researcher	2020-ongoing
+	Los Alamos National Laboratory, Los Alamos, NM 87545
+* Performing ultrasonic wavefield imaging on components for non-destructive evaluation
+* Improving performance and processing time of acoustic wavenumber spectroscopy by
+	training a convolutional neural network to recognize defects in plate-like structures
+* Integrating ANSYS, MATLAB, and deep learning workflow with Python automation
+
+	Assistive Robotics Lab	| Undergraduate Researcher	June-Aug 2019
+	Virginia Tech, Blacksburg, VA 24061
+* Investigated and classified navigation constraints and barriers for autonomous vehicles
+* Integrated with existing SLAM and convolutional neural networks for robotic navigation
+* Utilized computer vision to identify and localize barriers in a 3D point cloud map
+
+	Metronet Inc.	| Design Intern	June-Aug 2018
+	3701 Communications Way, Evansville, IN 47715
+* Revised and performed quality control on fiber network designs and construction drawings
+* Updated and maintained company as-built fiber designs utilizing GIS software
+* Generated bills of materials and compiled and documented procedure manuals
+
+Skills:	Software
+* Siemens STAR-CCM+	| Experience in 2D and 3D flow visualization and CFD
+* Ricardo WAVE	| Experience in combustion engine analysis and simulation
+* ANSYS Mech, Fluent	| Proficient in ANSYS workbench tools and Python scripting
+* MATLAB	| Proficient in numerical analysis and system modeling
+* BS SOLIDWORKS	| Intermediate CAD and stress/motion analysis experience
+* OpenCV, ROS, Fast.ai	| Intermediate in machine learning and conv neural networks
+* Cloud computing	| Remote deep learning virtual machine with GPU acceleration
+* Languages	| Proficient in Java, Python, C, Linux and shell scripting
+
+Practical and Lab
+* Wind tunnel labs	| Experience with airfoil wind tunnel testing and measurement
+* Engine cycle analysis	| Familiarity with turbojet engine cycle analysis and carpet plots
+* Basic shop skills	| Experience with mills, lathes, welding, CNC, etc. fabrication
+
+Activities &
+Honors:	Activities
+* Formula SAE	| Aero team member, simulating new under-tray design in CFD
+* Tau Beta Pi	| Engineering honor society and community involvement
+
+	Honors
+* Heminway Bronze medal for top of undergraduate class	2019
+* Rose-Hulman Dean’s List	9/9 quarters	2017-present
+Joshua David Eckels
+5500 Wabash Ave CM926 | Terre Haute, IN 47803 | (812) 453-1974 
+eckelsjd@rose-hulman.edu | https://github.com/eckelsjd/portfolio
+
+
+
+
